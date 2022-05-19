@@ -6,9 +6,9 @@ by **Aditya Gupta** and **Aditya Gupta** for course Machine Learning (CSE343/ECE
 In information retrieval and natural language
 processing, assigning keywords is a critical activity.
 Automated tagging is a subtype of keyword assignment
-and a sort of text classification in and of itself, with
+and a sort of **Multi-label text classification** problem in and of itself, with
 applications in online forums and automated document
-screening.
+screening.  
 Stack Overflow is the largest, most trusted online
 community for developers to learn, share their
 programming knowledge, and build their careers. Stack
