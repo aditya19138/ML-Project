@@ -1,6 +1,6 @@
 # Indentifying Tags from Stackoverflow Questions
 
-by **Aditya Gupta** and **Aditya Gupta** for course Machine Learning (CSE343/ECE343) under the guidance of **Dr. Saket Anand** from **Indraprastha Institute of Information Technology, Delhi**.
+by **Aditya Gupta** and **Deepak Gupta** for course Machine Learning (CSE343/ECE343) under the guidance of **Dr. Saket Anand** from **Indraprastha Institute of Information Technology, Delhi**.
 
 ## Introduction
 In information retrieval and natural language
